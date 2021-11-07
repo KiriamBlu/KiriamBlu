@@ -15,6 +15,8 @@
 [<img align="left" alt="KiriamBlu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KiriamBlu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ## 42 CURSUS STATS
 [![jsanfeli 42 stats](https://badge42.herokuapp.com/api/stats/jsanfeli?privacyEmail=false)](https://profile.intra.42.fr/users/jsanfeli/)
 
