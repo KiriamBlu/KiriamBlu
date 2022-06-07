@@ -7,7 +7,7 @@
 - 💻 I’m currently learning C
 - 🖼 I’m looking to learn about NFT trading
 - 🎮 I also love playing videogames
-- 🧠 I am starting to learn about javascript
+- 🧠 I am starting to learn about python and c++
 
 ### Connect with me:
 
