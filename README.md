@@ -6,7 +6,7 @@
 
 - 💻 I’m currently learning C
 - 🎮 I also love playing videogames
-- 🧠 Also I am learning about python and c++
+- 🧠 In adition I am learning about python and c++
 
 ### Connect with me:
 
