@@ -5,7 +5,6 @@
 ## I'm a Student in 42 Madrid!!
 
 - 💻 I’m currently learning C
-- 🖼 I’m looking to learn about NFT trading
 - 🎮 I also love playing videogames
 - 🧠 I am starting to learn about python and c++
 
