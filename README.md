@@ -33,4 +33,4 @@
 
 [twitter]: https://twitter.com/_Kiriam
 [instagram]: https://www.instagram.com/__kiriam/
-[linkedin]: https://linkedin.com/in/Joan_Sanfelipe
+[linkedin]: https://www.linkedin.com/in/joan-sanfelipe-87673297/
