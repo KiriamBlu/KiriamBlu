@@ -14,7 +14,7 @@
 
 ## 42 CURSUS STATS
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/jsanfeli)](https://github.com/oakoudad/badge42)
+[![jsanfeli's 42 stats](https://badge.mediaplus.ma/darkblue/jsanfeli)](https://github.com/oakoudad/badge42)
 
 ------------------------------------------------------------
 
