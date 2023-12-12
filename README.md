@@ -14,7 +14,6 @@
 
 ## 42 CURSUS STATS
 
-[![jsanfeli's 42 stats](https://badge.mediaplus.ma/black/jsanfeli)](https://github.com/oakoudad/badge42)
 
 ------------------------------------------------------------
 
